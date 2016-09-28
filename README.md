@@ -5,7 +5,7 @@ I have created a readme-edit branch
 
 and am editing it with text
 
-I'm not sure if I have to use any particular syntax
+I'm pretty sure it uses Markup syntax
 
 Well, I have learned to add a blank line in lieu of a carriage return!
 
