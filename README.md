@@ -9,6 +9,8 @@ I'm not sure if I have to use any particular syntax
 
 Well, I have learned to add a blank line in lieu of a carriage return!
 
-
 This is after 2 blank lines
 - and this is after no blank lines
+
+Now I can enter the editor and make additions
+
