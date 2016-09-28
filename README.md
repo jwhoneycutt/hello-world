@@ -14,3 +14,4 @@ This is after 2 blank lines
 
 Now I can enter the editor and make additions
 
+Pay attention to the colored things on the page, click filename, pencil to edit, commit at bottom
